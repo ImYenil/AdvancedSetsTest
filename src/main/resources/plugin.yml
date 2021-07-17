@@ -1,0 +1,4 @@
+name: AdvancedSets-Test
+main: net.choco.sets.Main
+version: 1.0
+softdepend: [AdvancedSets]
